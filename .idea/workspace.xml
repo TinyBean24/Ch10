@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9Hw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quadrilateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuadrilateralInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuadrilateralTest.java" afterDir="false" />
+    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="Adding hw files for ch9">
+      <change afterPath="$PROJECT_DIR$/src/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestQuadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trapezoid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuadrilateralInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuadrilateralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuadrilateralTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="TestQuadrilateral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestQuadrilateral" />
+      <module name="Ch10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestQuadrilateral" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667613728406</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding hw files for ch9">
+      <created>1667772118762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667772118762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding hw files for ch9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding hw files for ch9" />
   </component>
 </project>
