@@ -1,7 +1,7 @@
 public class Quadrilateral {
     private double x1, y1, x2, y2, x3, y3, x4, y4;
 
-    public Quadrilateral(double x1, double y1, double x2, double y2, double x3,
+    protected Quadrilateral(double x1, double y1, double x2, double y2, double x3,
                          double y3, double x4, double y4) {
         this.x1 = x1;
         this.y1 = y1;
@@ -16,59 +16,59 @@ public class Quadrilateral {
 //    public void setCoordinate() {
 //
 //    }
-    public void setX1(double x1) {
+    protected void setX1(double x1) {
         this.x1 = x1;
     }
-    public double getX1() {
+    protected double getX1() {
         return x1;
     }
-    public void setX2(double x2) {
+    protected void setX2(double x2) {
         this.x2 = x2;
     }
-    public double getX2() {
+    protected double getX2() {
         return x2;
     }
-    public void setX3(double x3) {
+    protected void setX3(double x3) {
         this.x3 = x3;
     }
-    public double getX3() {
+    protected double getX3() {
         return x3;
     }
-    public void setX4(double x4) {
+    protected void setX4(double x4) {
         this.x4 = x4;
     }
-    public double getX4() {
+    protected double getX4() {
         return x4;
     }
-    public void setY1(double Y1) {
+    protected void setY1(double Y1) {
         this.y1 = y1;
     }
-    public double getY1() {
+    protected double getY1() {
         return y1;
     }
-    public void setY2(double Y2) {
+    protected void setY2(double Y2) {
         this.y2 = y2;
     }
-    public double getY2() {
+    protected double getY2() {
         return y2;
     }
-    public void setY3(double Y3) {
+    protected void setY3(double Y3) {
         this.y3 = y3;
     }
-    public double getY3() {
+    protected double getY3() {
         return y3;
     }
-    public void setY4(double Y4) {
+    protected void setY4(double Y4) {
         this.y4 = y4;
     }
-    public double getY4() {
+    protected double getY4() {
         return y4;
     }
 
     @Override
     public String toString() {
-        return String.format("%s (%.1f, %.1f), (%.1f, %.1f), (%.1f, %.1f), (%.1f, %.1f)",
-                "Coordinates of Quadrilateral are: \n",
+        return String.format("%s(%.1f, %.1f), (%.1f, %.1f), (%.1f, %.1f), (%.1f, %.1f)",
+                "Coordinates of Quadrilateral are:\n",
                 getX1(), getY1(), getX2(), getY2(),
                 getX3(), getY3(), getX4(), getY4());
     }
