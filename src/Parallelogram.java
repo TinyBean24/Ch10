@@ -1,11 +1,13 @@
 public class Parallelogram extends Quadrilateral {
-    private int height;
-    Parallelogram(int a, int b, int c, int d, int e, int f, int g, int h, int height) {
-        setCoordinate(a,b,c,d,e,f,g,h);
+    private final double height;
+    Parallelogram(double x1, double x2, double x3, double x4,
+                  double y1, double y2, double y3, double y4, double height) {
+        super.setCoordinate(5.0, 5.0, 11.0, 5.0, 12.0, 20.0, 6.0, 20.0);
         this.height  = height;
     }
-    int area() {
-        int d1 = (int)Math.sqrt((x1-x2)*(x1-x2) + (y1 - y2)*(y1-y2));
-        return d1*height;
+    double area() {
+        double x1;
+        double d1 = Math.sqrt((x1-x2)*(x1-x2) + (y1 - y2)*(y1-y2));
+        return (int) (d1 * height);
     }
 }
