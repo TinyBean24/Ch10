@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="Modifying the Quadrilateral class to set the private instance variables and putting get/set methods to modify the variables. Also included an override for the &quot;toString()&quot; method to out put the &lt;String&gt; followed by the x-y combos">
+    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="Updated progress on ch9 hw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parallelogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parallelogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quadrilateral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestQuadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestQuadrilateral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trapezoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trapezoid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667792575550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated progress on ch9 hw">
+      <created>1667804062762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667804062762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated progress on ch9 hw">
+      <created>1667804095090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667804095090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,7 +103,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -102,6 +140,7 @@
     <MESSAGE value="Adding hw files for ch9" />
     <MESSAGE value="Created different class files for each item." />
     <MESSAGE value="Modifying the Quadrilateral class to set the private instance variables and putting get/set methods to modify the variables. Also included an override for the &quot;toString()&quot; method to out put the &lt;String&gt; followed by the x-y combos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifying the Quadrilateral class to set the private instance variables and putting get/set methods to modify the variables. Also included an override for the &quot;toString()&quot; method to out put the &lt;String&gt; followed by the x-y combos" />
+    <MESSAGE value="Updated progress on ch9 hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated progress on ch9 hw" />
   </component>
 </project>

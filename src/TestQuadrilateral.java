@@ -9,14 +9,11 @@ public class TestQuadrilateral {
         Parallelogram p = new Parallelogram(5.0, 5.0, 11.0, 5.0, 12.0, 20.0, 6.0, 20., 15.0, 6.0);
         System.out.printf("\n\n%s\n", p.toString());
 
-//        Square sq = new Square(10,10,20,10,20,20,10,20);
-//        System.out.printf("Area of the square is: %d\n", sq.area());
-//
-//        Rectangle rect = new Rectangle(10,10,30,10,30,20,10,20);
-//        System.out.printf("Area of the rectangle is: %d\n", rect.area());
-//
+        Rectangle r = new Rectangle(17.0, 14.0, 30.0, 14.0, 30.0, 28.0, 17.0, 28.0, 14, 13);
+        System.out.printf("\n\n%s\n", r.toString());
 
-
+        Square s = new Square(4.0, 0.0, 8.0, 0.0, 8.0, 4.0, 4.0, 4.0, 4.0, 8.0);
+        System.out.printf("\n\n%s\n", s.toString());
 
     }
 }
