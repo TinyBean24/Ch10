@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="Updated progress on ch9 hw">
+    <list default="true" id="dedc4804-5a37-40e8-813b-a2e7020d56e1" name="Changes" comment="Completed ch9 assignment">
+      <change afterPath="$PROJECT_DIR$/src/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10Assignments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PayrollSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PieceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalariedEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestQuadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestQuadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch9Hw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadrilateral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuadrilateralTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestQuadrilateral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trapezoid.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +48,26 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user01/IdeaProjects/Ch10/src&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/Ch10/ch9hw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PayrollSystemTest">
+    <configuration name="PayrollSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PayrollSystemTest" />
+      <module name="Ch10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestQuadrilateral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestQuadrilateral" />
       <module name="Ch10" />
@@ -47,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PayrollSystemTest" />
         <item itemvalue="Application.TestQuadrilateral" />
       </list>
     </recent_temporary>
@@ -95,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667804095090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed ch9 assignment">
+      <created>1667806461111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667806461111</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +179,7 @@
     <MESSAGE value="Created different class files for each item." />
     <MESSAGE value="Modifying the Quadrilateral class to set the private instance variables and putting get/set methods to modify the variables. Also included an override for the &quot;toString()&quot; method to out put the &lt;String&gt; followed by the x-y combos" />
     <MESSAGE value="Updated progress on ch9 hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated progress on ch9 hw" />
+    <MESSAGE value="Completed ch9 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed ch9 assignment" />
   </component>
 </project>
